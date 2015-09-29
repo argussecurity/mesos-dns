@@ -11,9 +11,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mesosphere/mesos-dns/logging"
-	"github.com/mesosphere/mesos-dns/records"
-	"github.com/mesosphere/mesos-dns/records/labels"
+	"github.com/argussecurity/mesos-dns/logging"
+	"github.com/argussecurity/mesos-dns/records"
+	"github.com/argussecurity/mesos-dns/records/labels"
 	"github.com/miekg/dns"
 )
 

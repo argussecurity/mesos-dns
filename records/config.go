@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/mesosphere/mesos-dns/logging"
+	"github.com/argussecurity/mesos-dns/logging"
 	"github.com/miekg/dns"
 )
 

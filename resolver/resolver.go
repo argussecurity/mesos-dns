@@ -20,9 +20,9 @@ import (
 	"github.com/mesos/mesos-go/detector"
 	_ "github.com/mesos/mesos-go/detector/zoo"
 	mesos "github.com/mesos/mesos-go/mesosproto"
-	"github.com/mesosphere/mesos-dns/logging"
-	"github.com/mesosphere/mesos-dns/records"
-	"github.com/mesosphere/mesos-dns/util"
+	"github.com/argussecurity/mesos-dns/logging"
+	"github.com/argussecurity/mesos-dns/records"
+	"github.com/argussecurity/mesos-dns/util"
 	"github.com/miekg/dns"
 )
 

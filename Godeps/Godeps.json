@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/mesosphere/mesos-dns",
+	"ImportPath": "github.com/argussecurity/mesos-dns",
 	"GoVersion": "go1.4.2",
 	"Deps": [
 		{
