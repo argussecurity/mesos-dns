@@ -14,9 +14,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/mesosphere/mesos-dns/logging"
-	"github.com/mesosphere/mesos-dns/records/labels"
-	"github.com/mesosphere/mesos-dns/records/state"
+	"github.com/argussecurity/mesos-dns/logging"
+	"github.com/argussecurity/mesos-dns/records/labels"
+	"github.com/argussecurity/mesos-dns/records/state"
 )
 
 // Map host/service name to DNS answer

@@ -15,10 +15,10 @@ import (
 
 	"github.com/emicklei/go-restful"
 	_ "github.com/mesos/mesos-go/detector/zoo" // Registers the ZK detector
-	"github.com/mesosphere/mesos-dns/exchanger"
-	"github.com/mesosphere/mesos-dns/logging"
-	"github.com/mesosphere/mesos-dns/records"
-	"github.com/mesosphere/mesos-dns/util"
+	"github.com/argussecurity/mesos-dns/exchanger"
+	"github.com/argussecurity/mesos-dns/logging"
+	"github.com/argussecurity/mesos-dns/records"
+	"github.com/argussecurity/mesos-dns/util"
 	"github.com/miekg/dns"
 )
 

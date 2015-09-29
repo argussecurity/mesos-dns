@@ -7,9 +7,9 @@ import (
 	"testing"
 	"testing/quick"
 
-	"github.com/mesosphere/mesos-dns/logging"
-	"github.com/mesosphere/mesos-dns/records/labels"
-	"github.com/mesosphere/mesos-dns/records/state"
+	"github.com/argussecurity/mesos-dns/logging"
+	"github.com/argussecurity/mesos-dns/records/labels"
+	"github.com/argussecurity/mesos-dns/records/state"
 )
 
 func init() {

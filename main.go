@@ -8,11 +8,11 @@ import (
 	"time"
 
 	"github.com/mesos/mesos-go/detector"
-	"github.com/mesosphere/mesos-dns/detect"
-	"github.com/mesosphere/mesos-dns/logging"
-	"github.com/mesosphere/mesos-dns/records"
-	"github.com/mesosphere/mesos-dns/resolver"
-	"github.com/mesosphere/mesos-dns/util"
+	"github.com/argussecurity/mesos-dns/detect"
+	"github.com/argussecurity/mesos-dns/logging"
+	"github.com/argussecurity/mesos-dns/records"
+	"github.com/argussecurity/mesos-dns/resolver"
+	"github.com/argussecurity/mesos-dns/util"
 )
 
 func main() {
