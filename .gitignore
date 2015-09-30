@@ -2,3 +2,5 @@ tmp/
 config.json
 mesos-dns
 *.gz
+
+.idea
